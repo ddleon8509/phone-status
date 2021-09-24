@@ -1,0 +1,10 @@
+docker
+crontab
+cron.log
+script.py
+script-v0.py
+script-v1.py
+script-v2.py
+venv/
+app/.env
+app/data/
